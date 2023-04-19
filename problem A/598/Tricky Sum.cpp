@@ -35,12 +35,7 @@ int main()
 
         }
 
-
-
-
         som1 = som1 - (2 * som2);
-
-
 
         cout << som1 << endl;
     }
